@@ -127,7 +127,7 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: $muted-text-color;
+    color: #fff;
     border: 1px solid mix(#000, $border-color, 25%);
     border-radius: $border-radius;
 
@@ -241,7 +241,7 @@
         position: absolute;
         inset-inline-start: 0;
         bottom: 0;
-        height: 4px;
+        height: 1px;
         background: $primary-color;
         width: 100%;
         -webkit-transition: $global-transition;
@@ -494,7 +494,7 @@
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 1px solid #2a2a58;
 }
 
 /*
