@@ -33,3 +33,8 @@ sidebar-menu:
     children:
       - title: "Basic"
         url: /category/python-basic
+
+  - title: Blog
+    children:
+      - title: "Github Blog"
+        url: /category/blog
