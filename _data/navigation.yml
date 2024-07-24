@@ -34,10 +34,10 @@ sidebar-menu:
       - title: "Basic"
         url: /category/python-basic
 
-- title: Blender
-  children:
-    - title: "Blender 3D"
-      url: /category/blender
+  - title: Blender
+    children:
+      - title: "Blender 3D"
+        url: /category/blender
 
   - title: Blog
     children:
