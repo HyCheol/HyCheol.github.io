@@ -18,22 +18,28 @@ sidebar-menu:
     children:
       - title: "Unity"
         url: /category/unity
+        category: "unity"
       - title: "Blender"
         url: /category/blender
+        category: "blender"
 
   - title: 🔥 Algorithm
     children:
       - title: "BOJ"
-        url: /category/algorithm-boj
+        url: /category/boj
+        category: "boj"
 
   - title: 🖥️ Language
     children:
       - title: "C#"
         url: /category/['C Sharp']
+        category: "C#"
       - title: "Python"
         url: /category/python
+        category: "python"
 
   - title: ⭐ Blog
     children:
       - title: "Github Blog"
         url: /category/blog
+        category: "blog"
