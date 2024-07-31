@@ -14,32 +14,26 @@ main:
   #   url: /sitemap/
 
 sidebar-menu:
-  - title: Game
+  - title: 🎮 Game Dev
     children:
       - title: "Unity"
         url: /category/unity
+      - title: "Blender"
+        url: /category/blender
 
-  - title: Algorithm
+  - title: 🔥 Algorithm
     children:
       - title: "BOJ"
         url: /category/algorithm-boj
 
-  - title: C#
+  - title: 🖥️ Language
     children:
-      - title: "Basic"
-        url: /category/['C Sharp']-basic
+      - title: "C#"
+        url: /category/['C Sharp']
+      - title: "Python"
+        url: /category/python
 
-  - title: Python
-    children:
-      - title: "Basic"
-        url: /category/python-basic
-
-  - title: Blender
-    children:
-      - title: "Blender 3D"
-        url: /category/blender
-
-  - title: Blog
+  - title: ⭐ Blog
     children:
       - title: "Github Blog"
         url: /category/blog
