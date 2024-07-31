@@ -1,7 +1,7 @@
 ---
 title: "Python Basic"
 layout: archive
-permalink: category/python-basic
+permalink: category/python
 author_profile: true
 header:
   overlay_image: "/assets/header.jpg"

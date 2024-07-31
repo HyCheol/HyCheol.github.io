@@ -1,7 +1,7 @@
 ---
 title: "C# Basic"
 layout: archive
-permalink: category/['C Sharp']-basic
+permalink: category/['C Sharp']
 author_profile: true
 entries_layout: grid
 header:

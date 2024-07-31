@@ -1,7 +1,7 @@
 ---
 title: "Algorithm BOJ"
 layout: archive
-permalink: category/algorithm-boj
+permalink: category/boj
 author_profile: true
 entries_layout: grid
 header:
