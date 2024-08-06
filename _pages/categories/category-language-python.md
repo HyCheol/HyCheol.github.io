@@ -3,6 +3,7 @@ title: "Python"
 layout: archive
 permalink: category/python
 author_profile: true
+entries_layout: grid
 header:
   overlay_image: "/assets/header.jpg"
   overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
