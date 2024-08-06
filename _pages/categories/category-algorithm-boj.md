@@ -1,5 +1,5 @@
 ---
-title: "Algorithm BOJ"
+title: "BOJ"
 layout: archive
 permalink: category/boj
 author_profile: true
@@ -11,5 +11,5 @@ sidebar:
   nav: "sidebar-menu"
 ---
 
-{% assign posts = site.categories.algorithm-boj %}
+{% assign posts = site.categories.boj %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

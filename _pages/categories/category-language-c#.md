@@ -1,5 +1,5 @@
 ---
-title: "C# Basic"
+title: "C#"
 layout: archive
 permalink: category/['C Sharp']
 author_profile: true
@@ -11,5 +11,5 @@ sidebar:
   nav: "sidebar-menu"
 ---
 
-{% assign posts = site.categories.['C Sharp']-basic %}
+{% assign posts = site.categories.['C Sharp'] %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

@@ -1,5 +1,5 @@
 ---
-title: "Python Basic"
+title: "Python"
 layout: archive
 permalink: category/python
 author_profile: true
@@ -10,5 +10,5 @@ sidebar:
   nav: "sidebar-menu"
 ---
 
-{% assign posts = site.categories.python-basic %}
+{% assign posts = site.categories.python %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
